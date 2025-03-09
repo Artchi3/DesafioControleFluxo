@@ -2,7 +2,7 @@ import java.util.Locale;
 import java.util.Scanner; 
 
 public class Contador {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
 
         Scanner scann = new Scanner(System.in).useLocale(Locale.US);
 
